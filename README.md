@@ -20,7 +20,7 @@ EXPERIMENT:
 
 ![image](https://github.com/Kamali22004796/Single-server-infinite-capacity---Markov-Model/assets/120567837/0dc589cd-d373-4f83-a154-a77e0f9cfb29)
 
-![image](https://github.com/Kamali22004796/Single-server-infinite-capacity---Markov-Model/assets/120567837/eeb54106-13ea-4658-96e4-a0d3ee75bfcc)
+
 
 
 ## Program
